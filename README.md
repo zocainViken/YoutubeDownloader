@@ -40,9 +40,10 @@ https://ffmpeg.org/download.html # for windows
 
 Update the url and file paths as needed in the Python script.
 
-Run the script:
-
-python script.py
+## Run the script:
+```sh
+python downloader.py
+```
 
 Example
 ```python
